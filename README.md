@@ -1,4 +1,5 @@
 # Mobile_price_classifier
 Upload the training and tesing dataset in google drive.
-Copy the link for both the datasets and paste it in the repository
+Paste the link of training dataset in 'df_train'.
+Similarly, paste the link of testing dataset in 'x_test'.
 Run the code
